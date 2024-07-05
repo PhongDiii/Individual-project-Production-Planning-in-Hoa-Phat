@@ -9,3 +9,7 @@ To achieve these ambitious targets, I am implementing a comprehensive production
 * Supply chain management: I develop the supply chain network by using algorithms
 * Production scheduling: I schedules its production activities to ensure that it can meet customer deadlines and minimize downtime.
 Production planning process is a key factor in the company's success. The process helps me to appoach realistic problems to produce high-quality steel products at a competitive price. This has made the company  a leading player in the global steel market.
+
+# Conceptualization Model
+![image](https://github.com/PhongDiii/Individual-project-Production-Planning-in-Hoa-Phat/assets/105002084/88a55d24-6ab9-48f3-bc53-44a911a88062)
+
