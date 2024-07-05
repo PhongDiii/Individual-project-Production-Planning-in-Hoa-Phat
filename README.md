@@ -13,3 +13,9 @@ Production planning process is a key factor in the company's success. The proces
 # Conceptualization Model
 ![image](https://github.com/PhongDiii/Individual-project-Production-Planning-in-Hoa-Phat/assets/105002084/88a55d24-6ab9-48f3-bc53-44a911a88062)
 
+# Update 
+* Forecasting : Propose a multi-regression by python, investigate a comprehensive way to approach realistic problem and machine learning
+* Inventory : Improve merge order and lotsizing with deeply solver in MATLAB and CPLEX
+* Warehouse : Apply material handling equipment, evaluate the flow of items and create a database
+* Production : Simulate the production line with deeply data collection and make the improvement
+* Business strategy : Propose possible problems and try to solve that. 
